@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "digitTests",
+    "oncran": true
+  },
+  {
     "package": "jfa",
     "oncran": true
   }
