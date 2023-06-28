@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "aRtsy"]
 	path = aRtsy
 	url = https://github.com/koenderks/artsy
-	shallow = true
-	registered = true
 [submodule "digitTests"]
 	path = digitTests
 	url = https://github.com/koenderks/digittests
-	shallow = true
-	registered = true
 [submodule "jfa"]
 	path = jfa
 	url = https://github.com/koenderks/jfa
-	shallow = true
-	registered = true
